@@ -10,7 +10,3 @@
 - 🌱 I’m currently working with **React**
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/jesús-clemente-pérez) or by [mail](mailto:jescleper@gmail.com)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jescleper&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jescleper&layout=compact&theme=radical)
